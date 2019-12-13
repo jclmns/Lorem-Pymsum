@@ -1,2 +1,2 @@
 # Lorem-Pymsum
-Randomly styled, random word generator
+A randomly styled, random word generator.
